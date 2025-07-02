@@ -22,7 +22,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution - FrontEnd Mentor](https://www.frontendmentor.io/solutions/social-links-page-solution-using-html-and-css-flex-box-XCrwazTjy4)
 - Live Site URL: [Social Link Page](https://social-links-ashim.netlify.app/)
 
 ## My process
